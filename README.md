@@ -4,7 +4,7 @@
 
 ### Hi there 👋 My name is Matt
 #### Web and Multimedia Developer
-.. who loves UI effects, animation and dynamic user experience, design and develop that make people's lives simple.
+.. who loves UI effects, animation and dynamic UX to develop, which makes people life simple.
 
 <p>
     <img src="http://views.whatilearened.today/views/github/r4nd3l/views.svg"/>
