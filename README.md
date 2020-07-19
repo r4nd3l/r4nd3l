@@ -6,7 +6,7 @@
 #### Web Developer
 A web developer who loves UI effects, animation and dynamic user experience, design and develop that make people's lives simple.
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4nd3l&show_icons=true&hide=["stars","issues"]) 
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4nd3l&show_icons=true) 
 <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/200.webp" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -18,10 +18,9 @@ A web developer who loves UI effects, animation and dynamic user experience, des
 
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=r4nd3l&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="http://views.whatilearened.today/views/github/r4nd3l/views.svg"/>
-    <a href="https://daniels-roth-stan.fr/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/></a>
+    <a href="https://github.com/r4nd3l/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/></a>
     <a href="https://github.com/r4nd3l/"><img src="https://img.shields.io/github/followers/r4nd3l?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/r4nd3l?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
