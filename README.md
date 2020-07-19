@@ -11,7 +11,7 @@ A web developer who loves UI effects, animation and dynamic user experience, des
     <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/>
     <img src="https://img.shields.io/github/followers/r4nd3l?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
     <a href="https://github.com/r4nd3l?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/Front End-Vue.js.svg"/>
+    <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
     <img src="https://img.shields.io/badge/os-ubuntu-red.svg"/>
 </p>
 
