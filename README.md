@@ -6,8 +6,9 @@
 #### Web Developer
 A web developer who loves UI effects, animation and dynamic user experience. I design and develop experience that make people's lives simple.
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4nd3l&show_icons=true&hide=["stars","issues"]) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/r4nd3l&show_icons=true)![Profile views](https://gpvc.arturio.dev/https://github.com/r4nd3l) 
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4nd3l&show_icons=true&hide=["stars","issues"]) 
+<img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/200.webp" width="100">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
 *P.S.- Hit ⭐ if you like and fork if you would decide to add the same design!*
