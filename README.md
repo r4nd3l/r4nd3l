@@ -4,7 +4,7 @@
 
 ### Hi there 👋, My name is Matt
 #### Web Developer
-A web developer who loves UI effects, animation and dynamic user experience. I design and develop experience that make people's lives simple.
+A web developer who loves UI effects, animation and dynamic user experience, design and develop that make people's lives simple.
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4nd3l&show_icons=true&hide=["stars","issues"]) 
 <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/200.webp" width="100">
