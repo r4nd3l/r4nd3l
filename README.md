@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/r4nd3l/r4nd3l/master/greet.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-<p style="text-align:justify">Graduate with BSc and AP in web development. Four years of practical experience specialising in creating intuitive UI designs and dynamic UX interactions. As a team member I like to communicate and negotiate. I have also completed internships in multimedia and web design, where networking was a key value.</p>
+<p align="justify">Graduate with BSc and AP in web development. Four years of practical experience specialising in creating intuitive UI designs and dynamic UX interactions. As a team member I like to communicate and negotiate. I have also completed internships in multimedia and web design, where networking was a key value.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between">
     <a href="https://www.linkedin.com/in/matemolnar88">
